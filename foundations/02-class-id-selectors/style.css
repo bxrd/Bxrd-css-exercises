@@ -1,0 +1,27 @@
+.one, .three, .five {
+    background-color: rgb(255,0,0,0.4);
+    font-family: DejaVu Sans, Verdana, sans-serif;
+}
+
+.one {
+    font-size: 18px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+.five {
+    font-size: 30px;
+}
+
+#big-blue {
+    font-size: 36px;
+    color: blue;
+}
+
+#bold-green {
+    font-weight: bold;
+    background-color: rgb(0,255,0,0.4);
+    font-size: 24px;
+}

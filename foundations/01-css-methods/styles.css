@@ -1,0 +1,8 @@
+.external {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
